@@ -1,0 +1,14 @@
+# 依赖与构建产物
+node_modules/
+dist/
+*.timestamp-*.mjs
+
+# 本地环境
+.workbuddy/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+tmp/
+*.log
+__pycache__/
