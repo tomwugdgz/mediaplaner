@@ -4,6 +4,7 @@
 > 单文件 HTML 交付，双击即可运行，无需服务器、无需联网。
 
 ---
+<img width="894" height="948" alt="微信图片_20260816193206_1289_66" src="https://github.com/user-attachments/assets/4f900bed-7dc1-4fad-9c23-639414e1546b" />
 
 ## 一句话介绍
 
