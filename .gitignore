@@ -12,3 +12,16 @@ Thumbs.db
 tmp/
 *.log
 __pycache__/
+
+# 数据库与超大运行数据（按用户要求不上传 GitHub，仅留本地）
+# —— 数据库文件（点位资源库 / 单元门库等）——
+*.db
+*.sqlite
+*.sqlite3
+# —— 超大运行数据（单文件超过沙箱代理上传上限，推送必失败，故排除）——
+points.json
+src/data/points.json
+data/points.json
+点位管理系统.html
+*.html.bak
+
